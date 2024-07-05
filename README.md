@@ -1,25 +1,47 @@
+# Molecular Spells!
 
-Molecular Spells!Molecular Spells!
-Mar 2024 - Apr 2024Mar 2024 - Apr 2024
+**April 2024**
 
-Associated with Khon Kaen UniversityAssociated with Khon Kaen University
-A deckbuilding game made with Unity for participating in a week game jam.
-Attended with a team of 3 including a game designer, and 2 game programmers.
+**Description:**
+Molecular Spells is a deckbuilding game developed with Unity during a week-long game jam. The game was created by a team of three members: one game designer and two game programmers.
 
-https://wasabiboy.itch.io/molecular-spells
+**Game Overview:**
+The objective of the game is to create a roguelike card-building experience where players combine elemental cards to cast spells and use them to defeat enemies as they progress through various areas.
 
-The plan was to made a rouge-like card building game that player has to combine the elemental cards to create spells and use the spells to fight with enemies from area to area. 
+## Key Features:
+1. **Exploration:** Players roam the map and choose their adventure paths.
+2. **Combat:** Players engage in battles using a unique combat system designed with diverse card variations, enemy weaknesses, and resistance mechanics.
 
-There are 2 main features of this game. One is player roaming in the map choosing their path to adventure. And another is combat system when fighting the enemy. 
+## Development Process:
+Before coding, the team meticulously planned and designed the game:
+- The game designer focused on the combat system, card variations, and enemy mechanics.
+- The programmers developed the code structure using UML diagrams to ensure a loosely coupled system, promoting robust and extensible development.
 
-Before the programming begin, we plan and design the game. The designer design combat system, variation of cards, weakness and resistance of enemy mechanics. Then the programmer design the code structure using UML diagrams in order to achieve loosely coupled system that will allow robust and extensive development
+During development, the programmers researched and implemented various techniques:
+- SOLID principles
+- Abstract classes
+- Unity Event (Observer pattern)
+- Interfaces
+- Unity's New Input System
+- Scriptable Objects and Scriptable Objects as Event Relayers
 
-During the development, the programmers have research many techniques that are suitable for the problems. The techniques practised are SOLID principle, abstract class, Unity Event (Observer pattern), interfaces, Unity New Input sytem, Scriptable object and Scriptable as Event Relayer.
-PS. The resources learnt will be linked down below.
+## Outcome:
+In just one week, the project challenged the team to explore and acquire new knowledge, significantly enhancing their game development skills.
 
-Within a week, this project has pushed the team to explore and learn many new knowledge that improve skills in game development. 
+## Play the Game:
+[Molecular Spells on itch.io](https://wasabiboy.itch.io/molecular-spells)
 
-Team: 
-- Game Designer: Kan Somchariya
-- Game Programmer: Matus Yaowvasrisuwan
-- Game Programmer: Akapohn Sriyam
+## Team:
+- **Game Designer:** Kan Somchariya
+- **Game Programmer:** Matus Yaowvasrisuwan
+- **Game Programmer:** Akapohn Sriyam
+
+## Resources:
+- [Better Data with Scriptable Objects in Unity! (Tutorial)](https://youtu.be/PVOVIxNxxeQ)
+- [Why You Shouldn't Nest Your Code](https://youtu.be/CFRhGnuXG-4?si=w_M3ZNXLZ7VejEed)
+- [Using Interfaces in Unity Effectively | Unity Clean Code](https://www.youtube.com/watch?v=Zzklpdvue3A)
+- [ULTIMATE Event System for Unity Beginners](https://www.youtube.com/watch?v=7_dyDmF0Ktw)
+- [Unity's New Input System](https://youtu.be/ZSP3bFaZm-o)
+- [Game architecture with ScriptableObjects | Open Projects Devlog](https://www.youtube.com/watch?v=WLDgtRNK2VE)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+
