@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0eca9a80dbe4f44684d4bdeba405686, type: 3}
+  m_Name: Molecular Vibration
+  m_EditorClassIdentifier: 
+  data:
+  - component: O2
+    product: {fileID: 6343920774287069615, guid: e3d1c0cca8023624fa0b7c9161ac46c1, type: 3}
+  - component: Water
+    product: {fileID: 6343920774287069615, guid: 6ce8b3d692f13ea4891703ad40b6a6d9, type: 3}
+  - component: Ice Shard
+    product: {fileID: 6343920774287069615, guid: e908fcf795842514bb1c51a94c22a696, type: 3}
+  - component: Rock
+    product: {fileID: 6343920774287069615, guid: dfcbc0532168a5047b8a7bdd6fd77ba3, type: 3}
+  - component: Molecular Vibration
+    product: {fileID: 5548600799063870570, guid: 0c93e7dbe3f4e0b4c9f87d6a011c7412, type: 3}
